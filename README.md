@@ -1,0 +1,2 @@
+# TenMO
+TenMo Money Transfer App • Client-server application written using Java 8 • Spring JDBC and PostgreSQL for database connectivity and management • RESTful API for web services • Spring Boot to implement MVC pattern • JUnit for integration testing • Users can view their account balance, view a list of users, send money to other users, view a list of past transfers, and retrieve the details of any transfer
